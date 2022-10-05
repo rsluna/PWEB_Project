@@ -1,2 +1,1 @@
-# PWEB_Project
-Projeto da Disciplina de PWEB - UNIPE - 2022-2
+https://rsluna.github.io/PWEB_Project/PlanodeObjetivos.html
